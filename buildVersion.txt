@@ -2,9 +2,4 @@
 # TeaSpeak version: 1.4.20
 # Build version: 0
 
-fds
-fsd
-fsd
-fgfd
-gfd
-g
+f
