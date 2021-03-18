@@ -2,15 +2,6 @@
 # TeaSpeak version: 1.4.20
 # Build version: 0
 
-{"buildfsd
-fsd
-fsda
-
-d
-
-
 fds
-
-ds
-d
+fsd
 fsd
